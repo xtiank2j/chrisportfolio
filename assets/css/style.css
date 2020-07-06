@@ -916,6 +916,9 @@ section {
   transition: 0.4s;
   border-radius: 4px;
 }
+.cardbtn{
+  float: right;
+}
 .cardbtn button{
   background: #149ddd;
   border: 0;
@@ -923,8 +926,6 @@ section {
   color: #fff;
   transition: 0.4s;
   border-radius: 4px;
-   float: right;
-  
 }
 .cardbtn button:hover {
    background:green;
