@@ -144,7 +144,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 .imgcard li{
  list-style: none;
- text-decoration: none;
+ text-decoration: lightseagreen;
+  -webkit-animation: normal;
+  padding:0;
+
 }
 
 .nav-menu > ul > li {
